@@ -1,0 +1,15 @@
+C:\Users\msmit\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.exe
+C:\Users\msmit\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.deps.json
+C:\Users\msmit\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.runtimeconfig.json
+C:\Users\msmit\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\msmit\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.AssemblyReference.cache
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\refint\TaskManagementSystem.dll
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.genruntimeconfig.cache
+C:\Users\msmit\TaskManagementSystem\obj\Debug\net7.0\ref\TaskManagementSystem.dll
